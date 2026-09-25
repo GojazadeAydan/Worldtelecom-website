@@ -17,7 +17,7 @@ header {
     background-color: #383E42;
     display: flex;
     justify-content: center;
-    gap: 590px;
+    gap: 585px;
 }
 
 #header-up a,
@@ -218,6 +218,7 @@ main {
 
 .outlet-bottom span {
     color: black;
+    font-size: 17px;
 }
 
 .outlet-bottom button {
